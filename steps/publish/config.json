@@ -1,0 +1,10 @@
+{
+  "name": "publish",
+  "description": "recipe publish",
+  "plugins": [
+    "npmRegistry"
+  ],
+  "contexts": [
+    "recipe"
+  ]
+}

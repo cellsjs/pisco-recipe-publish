@@ -1,0 +1,22 @@
+{
+  "name": "pisco-recipe-publish",
+  "version": "0.0.1",
+  "description": "Recipe publish step",
+  "scripts": {
+    "deps": "npm install"
+  },
+  "keywords": [
+    "piscosour-recipe"
+  ],
+  "license": "ISC",
+  "preferGlobal": true,
+  "dependencies": {
+    "pisco-plugin-npm": "^0.1.2"
+  },
+  "devDependencies": {
+    "piscosour": "^1.0.0-alpha.8"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
