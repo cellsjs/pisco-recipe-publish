@@ -1,6 +1,6 @@
 {
   "name": "pisco-recipe-publish",
-  "version": "0.1.0-rc.0",
+  "version": "0.1.0",
   "description": "Recipe publish step",
   "scripts": {
     "deps": "npm install"
