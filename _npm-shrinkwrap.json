@@ -1,0 +1,17 @@
+{
+  "name": "pisco-recipe-publish",
+  "version": "0.1.2",
+  "dependencies": {
+    "pisco-plugin-npm": {
+      "version": "0.3.3",
+      "from": "pisco-plugin-npm@0.3.3",
+      "dependencies": {
+        "semver": {
+          "version": "5.3.0",
+          "from": "semver@>=5.1.0 <6.0.0",
+          "resolved": "https://globaldevtools.bbva.com/artifactory/api/npm/npm-repo/semver/-/semver-5.3.0.tgz"
+        }
+      }
+    }
+  }
+}
